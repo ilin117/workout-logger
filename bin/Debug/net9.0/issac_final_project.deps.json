@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "issac_final_project/1.0.0": {
+        "runtime": {
+          "issac_final_project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "issac_final_project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

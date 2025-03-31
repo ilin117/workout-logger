@@ -1,0 +1,14 @@
+/Users/ilin/Desktop/UNCC_Classes/ITCS3112/issac_final_project/bin/Debug/net9.0/issac_final_project
+/Users/ilin/Desktop/UNCC_Classes/ITCS3112/issac_final_project/bin/Debug/net9.0/issac_final_project.deps.json
+/Users/ilin/Desktop/UNCC_Classes/ITCS3112/issac_final_project/bin/Debug/net9.0/issac_final_project.runtimeconfig.json
+/Users/ilin/Desktop/UNCC_Classes/ITCS3112/issac_final_project/bin/Debug/net9.0/issac_final_project.dll
+/Users/ilin/Desktop/UNCC_Classes/ITCS3112/issac_final_project/bin/Debug/net9.0/issac_final_project.pdb
+/Users/ilin/Desktop/UNCC_Classes/ITCS3112/issac_final_project/obj/Debug/net9.0/issac_final_project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilin/Desktop/UNCC_Classes/ITCS3112/issac_final_project/obj/Debug/net9.0/issac_final_project.AssemblyInfoInputs.cache
+/Users/ilin/Desktop/UNCC_Classes/ITCS3112/issac_final_project/obj/Debug/net9.0/issac_final_project.AssemblyInfo.cs
+/Users/ilin/Desktop/UNCC_Classes/ITCS3112/issac_final_project/obj/Debug/net9.0/issac_final_project.csproj.CoreCompileInputs.cache
+/Users/ilin/Desktop/UNCC_Classes/ITCS3112/issac_final_project/obj/Debug/net9.0/issac_final_project.dll
+/Users/ilin/Desktop/UNCC_Classes/ITCS3112/issac_final_project/obj/Debug/net9.0/refint/issac_final_project.dll
+/Users/ilin/Desktop/UNCC_Classes/ITCS3112/issac_final_project/obj/Debug/net9.0/issac_final_project.pdb
+/Users/ilin/Desktop/UNCC_Classes/ITCS3112/issac_final_project/obj/Debug/net9.0/issac_final_project.genruntimeconfig.cache
+/Users/ilin/Desktop/UNCC_Classes/ITCS3112/issac_final_project/obj/Debug/net9.0/ref/issac_final_project.dll
