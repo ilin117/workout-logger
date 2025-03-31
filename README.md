@@ -1,2 +1,3 @@
 # workout-logger
-# c# text based workout log
+
+c# text based workout log
